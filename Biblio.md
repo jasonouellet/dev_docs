@@ -33,3 +33,9 @@
 * SAFe 4.5 Reference Guide: Scaled Agile Framework for Lean Enterprises, 2nd Edition, By Dean Leffingwell
 * The BPMN Graphic Handbook, Esteban Herrera
 * SCRUM Insights for practitioners - The Scrum Guide Companion, Hiren Doshi
+* The Passionate Programmer - Creating a remarkable career in software development, C had Fowler
+* Antifragile - Things that gain from disorder, Nassim Nicholas Taleb
+* The DevOps Handbook, Gene Kim, Jez Humble, Patrick Debois, John Willis
+* The Phoenix Project, Gene Kim, Kevin Behr, George Spafford
+
+* 
