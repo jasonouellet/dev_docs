@@ -2,7 +2,7 @@
 * The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition, [David Thomas](https://pragdave.me/), [Andrew Hunt](https://toolshed.com/)
 </br>![](https://books.google.ca/books/content?id=LhOlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70LtXial5H2H2oT3l2nffCP5_yGnoW6jr2QoU0GAwyLy6x0MNOPuQIQuoHQF3PFgFrogGj9rGZ_Knkg_FVKmHUYqytj4WiwxUyq0NEQFFOf9oriA69IMFkMniBXUbBBLD-v2Mit)
 * [Adaptive Code - Agile coding with design patterns and SOLID principles (second edition)](https://www.microsoftpressstore.com/store/adaptive-code-agile-coding-with-design-patterns-and-9781509302581), [Gary McLean Hall](https://www.codementor.io/garymcleanhall), [Github](https://github.com/garymcleanhall)
-![](https://books.google.ca/books/content?id=18SuDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE7207esBJj80qT2aIxHH7hRe8uJga_-Oe1G1184bJIKhsJLPEFjewpoYaco90fS3Fu97ILUjlCVuFjNBxC8lkCjfv5ZityA114s-u89j5GSF0khQy_xNHCXJzK4Jzo-Ss3yR45hv)
+![](./images/AdaptiveCode_s.jpg =200x)
 * [The Design of Web APIs](https://www.manning.com/books/the-design-of-web-apis), [Arnaud Lauret](https://apihandyman.io/)
 </br>![]()
 * [Dependency Injection - Principles, Practices, and Patterns](https://www.manning.com/books/dependency-injection-principles-practices-patterns?query=Dependency), [Steven van Deursen](https://blogs.cuttingedge.it/steven/), [Mark Seemann](https://blog.ploeh.dk/)
