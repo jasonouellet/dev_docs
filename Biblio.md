@@ -15,16 +15,19 @@
 * [Refactoring: Improving the Design of Existing Code, 2e Edition](https://martinfowler.com/books/refactoring.html), [Martin Fowler](https://martinfowler.com/)
 </br>![](images/Refactoring_s.jpg)
 
-* Clean Coder, The: A Code of Conduct for Professional Programmers, By Robert C. Martin
+* Clean Coder, The: A Code of Conduct for Professional Programmers, [Robert C. Martin](http://cleancoder.com)
 </br>![](images/CleanCoder_s.jpg)
 
-* Concurrency in C# Cookbook, Stephen Cleary
+* Concurrency in C# Cookbook, [Stephen Cleary](https://blog.stephencleary.com)
 </br>![](images/ConcurrencyInCSharpCookbook_s.jpg)
 
-* Building Microservices - Designing fine-grained systems, Sam Newman* Docker in Practice (second edition), Ian Miell, Aidan Hobson Sayers
+* Building Microservices - Designing fine-grained systems, [Sam Newman](https://samnewman.io)
 </br>![](images/BuildingMicroservices_s.jpg)
 
-* Applying UML and Patterns - An introduction to object-oriented analysis and design and iterative development, Craig Larman
+* Docker in Practice (second edition), [Ian Miell](https://zwischenzugs.com/), [Aidan Hobson Sayers](https://aidanhs.com/)
+</br>![](images/Miell-DockerP-2ed-HI_s.jpg)
+
+* Applying UML and Patterns - An introduction to object-oriented analysis and design and iterative development, [Craig Larman](http://www.craiglarman.com/wiki/index.php?title=Main_Page)
 </br>![](images/ApplyingUmlAndPatterns_s.jpg)
 
 # BDD
@@ -32,7 +35,7 @@
 ![](images/Behavior-DriverDevelopmentWithCucumber_s.jpg)
 
 # Architecture
-* Clean Architecture: A Craftsman's Guide to Software Structure and Design, By Robert C. Martin
+* Clean Architecture: A Craftsman's Guide to Software Structure and Design, [Robert C. Martin](http://cleancoder.com)
 </br>![](images/CleanArchitecture_s.jpg)
 
 * Cloud Native Patterns, Cornelia Davis
@@ -57,7 +60,7 @@
 </br>![](images/Vehent-SDO-HI_s.jpg)
 
 # Méthodologie et changement
-* Clean Agile: Back to Basics, By Robert C. Martin
+* Clean Agile: Back to Basics, [Robert C. Martin](http://cleancoder.com)
 </br>![](images/CleanAgile_s.jpg)
 
 * Agile Project Management with Kanban, By Eric Brechner
