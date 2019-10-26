@@ -19,7 +19,7 @@
 </br>![](images/CleanCoder_s.jpg)
 
 * Concurrency in C# Cookbook, Stephen Cleary
-</br>![](images/ConcurrencyInC\#Cookbook_s.jpg)
+</br>![](images/ConcurrencyInCSharpCookbook_s.jpg)
 
 * Building Microservices - Designing fine-grained systems, Sam Newman* Docker in Practice (second edition), Ian Miell, Aidan Hobson Sayers
 </br>![](images/BuildingMicroservices_s.jpg)
