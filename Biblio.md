@@ -1,4 +1,6 @@
-# Développement
+# Ma bibliothèque personnelle
+
+## Développement
 * The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition, [David Thomas](https://pragdave.me/), [Andrew Hunt](https://toolshed.com/)
 </br>![](images/ThePragmaticProgrammer_s.jpg)
 
@@ -30,11 +32,11 @@
 * Applying UML and Patterns - An introduction to object-oriented analysis and design and iterative development, [Craig Larman](http://www.craiglarman.com/wiki/index.php?title=Main_Page)
 </br>![](images/ApplyingUmlAndPatterns_s.jpg)
 
-# BDD
+## BDD
 * [Behavior-Driven Development with Cucumber: Better Collaboration for Better Software](http://www.informit.com/store/behavior-driven-development-with-cucumber-better-collaboration-9780321772633), [Richard Lawrence](), [Paul Rayner]()
 ![](images/Behavior-DriverDevelopmentWithCucumber_s.jpg)
 
-# Architecture
+## Architecture
 * Clean Architecture: A Craftsman's Guide to Software Structure and Design, [Robert C. Martin](http://cleancoder.com)
 </br>![](images/CleanArchitecture_s.jpg)
 
@@ -59,12 +61,10 @@
 * Securing DevOps, Julien Vehent
 </br>![](images/Vehent-SDO-HI_s.jpg)
 
-# Méthodologie et changement
+## Méthodologie et changement
 
 * [Accelerate: The Science Behind DevOps : Building and Scaling High Performing Technology Organizations](https://books.google.ca/books/about/Accelerate.html?id=85XHAQAACAAJ), [Nicole Forsgren PhD](https://nicolefv.com/), [Jez Humble](https://continuousdelivery.com/), [Gene Kim](http://www.realgenekim.me/)
-
 </br>![](images/AccelerateTheScienceOfLeanSoftwareAndSDevOps_s.jpg)
-
 
 * Clean Agile: Back to Basics, [Robert C. Martin](http://cleancoder.com)
 </br>![](images/CleanAgile_s.jpg)
