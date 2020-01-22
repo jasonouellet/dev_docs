@@ -34,10 +34,10 @@
 
 ## Tests automatisés
 * [Unit Testing Principles, Practices, and Patterns](https://www.manning.com/books/unit-testing), [Vladimir Khorikov]()
-![](images/UnitTestingPrinciplesPracticesAndPatterns_s.jpg)
+</br>![](images/UnitTestingPrinciplesPracticesAndPatterns_s.jpg)
 
 * [Behavior-Driven Development with Cucumber: Better Collaboration for Better Software](http://www.informit.com/store/behavior-driven-development-with-cucumber-better-collaboration-9780321772633), [Richard Lawrence](), [Paul Rayner]()
-![](images/Behavior-DriverDevelopmentWithCucumber_s.jpg)
+</br>![](images/Behavior-DriverDevelopmentWithCucumber_s.jpg)
 
 ## Architecture
 * Clean Architecture: A Craftsman's Guide to Software Structure and Design, [Robert C. Martin](http://cleancoder.com)
