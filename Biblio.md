@@ -34,7 +34,7 @@
 
 ## Tests automatisés
 * [Unit Testing Principles, Practices, and Patterns](https://www.manning.com/books/unit-testing), [Vladimir Khorikov]()
-![](images/Behavior-DriverDevelopmentWithCucumber_s.jpg)
+![](images/UnitTestingPrinciplesPracticesAndPatterns_s.jpg)
 
 * [Behavior-Driven Development with Cucumber: Better Collaboration for Better Software](http://www.informit.com/store/behavior-driven-development-with-cucumber-better-collaboration-9780321772633), [Richard Lawrence](), [Paul Rayner]()
 ![](images/Behavior-DriverDevelopmentWithCucumber_s.jpg)
