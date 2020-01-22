@@ -60,6 +60,12 @@
 </br>![](images/Vehent-SDO-HI_s.jpg)
 
 # Méthodologie et changement
+
+* [Accelerate: The Science Behind DevOps : Building and Scaling High Performing Technology Organizations](https://books.google.ca/books/about/Accelerate.html?id=85XHAQAACAAJ), [Nicole Forsgren PhD](https://nicolefv.com/), [Jez Humble](https://continuousdelivery.com/), [Gene Kim](http://www.realgenekim.me/)
+
+</br>![](images/AccelerateTheScienceOfLeanSoftwareAndSDevOps_s.jpg)
+
+
 * Clean Agile: Back to Basics, [Robert C. Martin](http://cleancoder.com)
 </br>![](images/CleanAgile_s.jpg)
 
@@ -87,8 +93,11 @@
 * Antifragile - Things that gain from disorder, Nassim Nicholas Taleb
 </br>![](images/Antifragile_s.jpg)
 
-* The DevOps Handbook, Gene Kim, Jez Humble, Patrick Debois, John Willis
+* The DevOps Handbook, [Gene Kim](http://www.realgenekim.me/), [Jez Humble](https://continuousdelivery.com/), Patrick Debois, John Willis
 </br>![](images/TheDevOpsHandbook_s.jpg)
 
-* The Phoenix Project, Gene Kim, Kevin Behr, George Spafford
+* The Phoenix Project, [Gene Kim](http://www.realgenekim.me/), Kevin Behr, George Spafford
 </br>![](images/ThePhoenixProject_s.jpg)
+
+* The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data, [Gene Kim](http://www.realgenekim.me/)
+</br>![](images/TheUnicornProject_s.jpg)
