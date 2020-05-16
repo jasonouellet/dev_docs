@@ -107,3 +107,6 @@
 
 * [Open Government - Collaboration, Transparency, and Participation in Practice](http://shop.oreilly.com/product/9780596804367.do), [Laurel Ruma](https://www.oreilly.com/pub/au/3334), [Daniel Lathrop](http://daniel.buzz/)
 </br>![](images/OpenGovernment_s.jpg)
+
+* [Government Digital](https://www.dundurn.com/books/Government-Digital), [Alex Benay](https://www.dundurn.com/authors/Alex-Benay)
+</br>!(images/GovernmentDigital_s.jpg)
