@@ -76,7 +76,7 @@ Si vous êtes développeur et que vous connaissez la programmation orientée obj
 Avec Docker installé, vous pouvez démarrer des conteneurs comme ceci :
 
 ```bash
-docker execute nginx
+docker run nginx
 ```
 
 La spécification d'exécution va de pair avec la spécification d'image, que nous aborderons dans le chapitre suivant, car elle décrit comment décompresser une image de conteneur, puis gérer le cycle de vie complet du conteneur, de la création de l'environnement du conteneur au démarrage du processus. , en l'arrêtant et en le supprimant.
@@ -104,30 +104,30 @@ Les images peuvent être construites en lisant les instructions d'un fichier de 
 ```dockerfile
 # Chaque image de conteneur commence par une image de base.
 # Cela pourrait être votre distribution Linux préférée
-DE ubuntu:20.04
+FROM ubuntu:20.04
 
 # Exécutez des commandes pour ajouter des logiciels et des bibliothèques à votre image
 # Ici, nous installons python3 et le gestionnaire de paquets pip
 RUN apt-get update && \
-    apt-get -y installer python3 python3-pip
+    apt-get -y install python3 python3-pip
 
 # La commande de copie peut être utilisée pour copier votre code dans l'image
-# Ici, nous copions un script appelé "my-app.py" dans le système de fichiers des conteneurs
-COPIER mon-app.py /app/
+# Ici, nous copions un script appelé "mon-app.py" dans le système de fichiers des conteneurs
+COPY mon-app.py /app/
 
 # Définit le workdir dans lequel l'application s'exécute
 # À partir de ce moment, tout sera exécuté dans /app
-RÉP TRAVAIL /app
+WORKSPACE /app
 
 # Le processus qui doit être démarré lorsque le conteneur s'exécute
-# Dans ce cas, nous démarrons notre application python "my-app.py"
-CMD ["python3","mon-application.py"]
+# Dans ce cas, nous démarrons notre application python "mon-app.py"
+CMD ["python3","mon-app.py"]
 ```
 
 Si vous avez installé Docker sur votre machine, vous pouvez créer l'image avec la commande suivante :
 
 ```shell
-docker build -t mon-python-image -f Dockerfile
+docker build -t mon-image-python -f Dockerfile
 ```
 
 Avec les paramètres -t my-python-image, vous pouvez spécifier une balise de nom pour votre image, et avec -f Dockerfile, vous spécifiez où trouver votre Dockerfile. Cela donne aux développeurs la possibilité de gérer toutes les dépendances de leur application et de la préparer à l'exécution au lieu de laisser cette tâche à une autre personne ou équipe.
@@ -135,8 +135,8 @@ Avec les paramètres -t my-python-image, vous pouvez spécifier une balise de no
 Pour distribuer ces images, vous pouvez utiliser un registre de conteneurs. Ce n'est rien de plus qu'un serveur Web sur lequel vous pouvez télécharger et télécharger des images. De manière pratique, Docker intègre les commandes push et pull :
 
 ```shell
-docker push my-registry.com/my-python-image
-docker pull my-registry.com/my-python-image
+docker push mon-registre.com/mon-image-python
+docker pull mon-registre.com/mon-image-python
 ```
 
 ## Sécurité
